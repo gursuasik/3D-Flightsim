@@ -1,0 +1,3 @@
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2Content\obj\x86\Debug\ResolveAssemblyReference.cache

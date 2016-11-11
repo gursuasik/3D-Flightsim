@@ -1,0 +1,72 @@
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Series3D2.exe
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Series3D2.pdb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\obj\x86\Debug\Series3D2.exe
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\obj\x86\Debug\Series3D2.pdb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\effects.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\texturemap.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\xwing.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\target.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\bullet.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox2.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_back.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_bottom.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_front.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_left.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_right.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_top.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Top_0.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Right_0.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Left_0.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Front_0.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Back_0.xnb
+D:\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\effects.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\texturemap.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\bullet.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_back.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_bottom.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_front.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_left.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_right.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_top.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\xwing.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\target.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox2.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Top_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Right_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Left_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Front_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Back_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Series3D2.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Series3D2.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\obj\x86\Debug\Series3D2.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Series3D2\Series3D2\Series3D2\obj\x86\Debug\Series3D2.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\effects.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\texturemap.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\bullet.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_back.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_bottom.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_front.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_left.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_right.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_top.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\xwing.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\target.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox2.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Top_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Right_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Left_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Front_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Back_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Series3D2.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Series3D2.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\obj\x86\Debug\Series3D2.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\obj\x86\Debug\Series3D2.pdb

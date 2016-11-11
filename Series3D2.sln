@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Series3D2", "Series3D2\Series3D2\Series3D2.csproj", "{9DA717B7-33D4-45E3-8124-ABC2BFAC1B87}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Series3D2Content", "Series3D2\Series3D2Content\Series3D2Content.contentproj", "{5CEFB5C5-BBFC-4EAF-BDBD-4B62343A5F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA717B7-33D4-45E3-8124-ABC2BFAC1B87}.Debug|x86.ActiveCfg = Debug|x86
+		{9DA717B7-33D4-45E3-8124-ABC2BFAC1B87}.Debug|x86.Build.0 = Debug|x86
+		{9DA717B7-33D4-45E3-8124-ABC2BFAC1B87}.Release|x86.ActiveCfg = Release|x86
+		{9DA717B7-33D4-45E3-8124-ABC2BFAC1B87}.Release|x86.Build.0 = Release|x86
+		{5CEFB5C5-BBFC-4EAF-BDBD-4B62343A5F6D}.Debug|x86.ActiveCfg = Debug|x86
+		{5CEFB5C5-BBFC-4EAF-BDBD-4B62343A5F6D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

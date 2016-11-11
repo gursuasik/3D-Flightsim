@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>effects.fx</Source>
+      <Name>effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\effects.xnb</Output>
+      <Time>2012-02-22T02:00:23.7269668+02:00</Time>
+    </Item>
+    <Item>
+      <Source>texturemap.jpg</Source>
+      <Name>texturemap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\texturemap.xnb</Output>
+      <Time>2012-02-22T18:48:29.3698245+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.jpg</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2012-03-09T23:14:40.1160662+02:00</Time>
+    </Item>
+    <Item>
+      <Source>skybox_back.JPG</Source>
+      <Name>skybox_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_back.xnb</Output>
+      <Time>2012-03-12T22:45:14.1209963+02:00</Time>
+    </Item>
+    <Item>
+      <Source>skybox_bottom.JPG</Source>
+      <Name>skybox_bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_bottom.xnb</Output>
+      <Time>2012-03-12T22:45:14.1209963+02:00</Time>
+    </Item>
+    <Item>
+      <Source>skybox_front.JPG</Source>
+      <Name>skybox_front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_front.xnb</Output>
+      <Time>2012-03-12T22:45:14.1677964+02:00</Time>
+    </Item>
+    <Item>
+      <Source>skybox_left.JPG</Source>
+      <Name>skybox_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_left.xnb</Output>
+      <Time>2012-03-12T22:45:14.1677964+02:00</Time>
+    </Item>
+    <Item>
+      <Source>skybox_right.JPG</Source>
+      <Name>skybox_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_right.xnb</Output>
+      <Time>2012-03-12T22:45:14.1833964+02:00</Time>
+    </Item>
+    <Item>
+      <Source>skybox_top.JPG</Source>
+      <Name>skybox_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox_top.xnb</Output>
+      <Time>2012-03-12T22:45:14.1833964+02:00</Time>
+    </Item>
+    <Item>
+      <Source>xwing.x</Source>
+      <Name>xwing</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\xwing.xnb</Output>
+      <Time>2012-02-23T21:14:53.7906213+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\xwing_0.xml</Key>
+        <Value>2012-09-07T14:35:36.750721+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>target.x</Source>
+      <Name>target</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\target.xnb</Output>
+      <Time>2012-03-09T22:41:52.1807583+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\target_0.xml</Key>
+        <Value>2012-09-07T14:35:37.1875218+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>skybox2.x</Source>
+      <Name>skybox2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\skybox2.xnb</Output>
+      <Time>2012-03-12T22:43:08.8360804+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\skybox2_0.xml</Key>
+        <Value>2012-09-07T14:35:37.4059222+03:00</Value>
+      </Dependency>
+      <Request>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Top_0.xnb</Request>
+      <Request>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Right_0.xnb</Request>
+      <Request>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Left_0.xnb</Request>
+      <Request>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Front_0.xnb</Request>
+      <Request>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Back_0.xnb</Request>
+      <Request>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>xwing.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\xwing_0.xml</Output>
+      <Time>2012-02-23T21:14:53.7906213+02:00</Time>
+    </Item>
+    <Item>
+      <Source>target.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\target_0.xml</Output>
+      <Time>2012-03-09T22:41:52.1807583+02:00</Time>
+    </Item>
+    <Item>
+      <Source>skybox2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\skybox2_0.xml</Output>
+      <Time>2012-03-12T22:43:08.8360804+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Top.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Top_0.xnb</Output>
+      <Time>2012-03-12T22:45:14.1833964+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Right.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Right_0.xnb</Output>
+      <Time>2012-03-12T22:45:14.1833964+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Left.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Left_0.xnb</Output>
+      <Time>2012-03-12T22:45:14.1677964+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Front.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Front_0.xnb</Output>
+      <Time>2012-03-12T22:45:14.1677964+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Back.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Back_0.xnb</Output>
+      <Time>2012-03-12T22:45:14.1209963+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Bottom.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb</Output>
+      <Time>2012-03-12T22:45:14.1209963+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents\Edit\Documents\Works\Visual Studio\C#\XNA Game Studio 4.0\Series3D2\Series3D2\Series3D2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-01-12T17:39:12.9711474+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
